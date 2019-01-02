@@ -6,7 +6,7 @@ date:   2019-01-02 13:00:00 -0300
 categoria:
   - lanches
 tags:
-  - biscoito
+  - biscoitos
 seo: biscoito, biscoito de fuba, fuba, biscoito com laranja, café da manhã, lanche da tarde, biscoitinhos, farinha de trigo
 thumb: "/uploads/2019-01-02-biscoito-de-fuba-com-laranja.jpg"
 ---
@@ -41,7 +41,9 @@ Modele as bolinhas e disponha numa assadeira untada e enfarinhada, dê uma leve 
 
 ---
 
-## Bônus e sugestão:
+## Bonus e sugestao
 Antes de começar, peneire bem os ingredientes secos. Você também pode fazer as bolinhas usando como medida uma colher de chá.
 
-Bom apetite e nos diga nos comentários o que achou da receita! <3
+Bom apetite e nos diga nos comentários o que achou da receita! ❤️
+
+---

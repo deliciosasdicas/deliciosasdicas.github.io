@@ -40,7 +40,9 @@ Depois basta retirar a canela e servir bem quente.
 
 ---
 
-## Bônus e sugestão:
+## Bonus e sugestao
 Caso queira mais grossinho, você pode acrescentar um pouco mais de amido de milho e chocolate.
 
-Bom apetite e nos diga nos comentários o que achou da receita! <3
+Bom apetite e nos diga nos comentários o que achou da receita! ❤️
+
+---

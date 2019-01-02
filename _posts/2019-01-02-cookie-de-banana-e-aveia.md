@@ -32,7 +32,9 @@ Assar no forno a 180º graus por 15 minutos, em uma assadeira bem untada.
 
 ---
 
-## Bônus e sugestão:
+## Bonus e sugestao
 Você pode adicionar outros ingredientes também! Fica bem legal com nozes, frutas secas, canela em pó, gotas de chocolate e etc.
 
-Bom apetite e nos diga nos comentários o que achou da receita! <3
+Bom apetite e nos diga nos comentários o que achou da receita! ❤️
+
+---

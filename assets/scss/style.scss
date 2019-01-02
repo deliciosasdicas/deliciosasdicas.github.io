@@ -217,21 +217,36 @@ $secundary: 'Oxygen', sans-serif;
     letter-spacing: 1px;
     line-height: 1.5;
     font-weight: bold;
+    text-align: left;
     &#modo-de-preparo:before{
       content: "";
       width: 39px;
       height: 39px;
       background: url('../img/icon-preparo.png') no-repeat;
-      display: block;
-      margin: 0 auto;
+      display: inline-block;
+      margin-right: 15px;
+      position: relative;
+      top: 5px;
     }
     &#ingredientes:before{
       content: "";
       width: 39px;
       height: 39px;
       background: url('../img/icon-ingredientes.png') no-repeat;
-      display: block;
-      margin: 0 auto;
+      display: inline-block;
+      margin-right: 15px;
+      position: relative;
+      top: 5px;
+    }
+    &#bonus-e-sugestao:before{
+      content: "";
+      width: 39px;
+      height: 39px;
+      background: url('../img/icon-bonus.png') no-repeat;
+      display: inline-block;
+      margin-right: 15px;
+      position: relative;
+      top: 5px;
     }
   }
 }
@@ -344,5 +359,14 @@ $secundary: 'Oxygen', sans-serif;
 @media screen and (max-width: 1700px){
   .container-full, .container{
     padding: 0 2%;
+  }
+}
+
+@media screen and (max-width: 480px){
+  .container-full, .container{
+    max-width: 340px;
+  }
+  .logo{
+    max-width: 150px;
   }
 }
