@@ -1,2 +1,2 @@
-# deliciosasdicas.github.io
-Blog
+# deliciosasdicas.com
+My Blog
