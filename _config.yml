@@ -1,0 +1,31 @@
+﻿title: Deliciosas Dicas - Confira receitas fáceis e práticas para se fazer
+email: deliciosasdicas@gmail.com
+description: Deliciosas dicas é um site de receitas baratas, fáceis e rápidas de se fazer. Temos receitas de acompanhamentos, entradas, sobremesas, saladas e muito mais
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://deliciosasdicas.com" # the base hostname & protocol for your site, e.g. https://example.com
+thumb: "/assets/img/thumb.png"
+keywords: deliciosas dicas, receitas, culinária, cozinha, receitas light, receitas de microondas, receitas fáceis, receitas práticas, receitas baratas, como fazer, receitas fitness, receitas para emagrecer, geladinho gourmet, doces, sobremesas, saldas, chocolate, geladinho, leite, ovos
+tag_page_layout: tag_page
+links:
+  - title: Envie sua Receita
+    url: /enviar-receitas
+  - title: Anuncie aqui
+    url: /anunciar
+
+# Build settings
+markdown: kramdown
+theme: minima
+permalink: /:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []

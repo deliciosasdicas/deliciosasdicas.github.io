@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<style media="screen">
+  .categories{display:none;}
+</style>
+
+<section class="list">
+  <div class="container">
+
+    <article class="post open">
+        <h1 class="title">{{ page.title | escape }}</h1>
+        <time datetime='{{page.date | date: "%Y-%m-%d"}}' itemprop="datePublished">
+          {% assign m = page.date | date: "%-m" %}
+          {{ page.date | date: "%-d" }}
+          {% case m %}
+            {% when '1' %}Janeiro
+            {% when '2' %}Fevereiro
+            {% when '3' %}Março
+            {% when '4' %}Abril
+            {% when '5' %}Maio
+            {% when '6' %}Junho
+            {% when '7' %}Julho
+            {% when '8' %}Agosto
+            {% when '9' %}Setembro
+            {% when '10' %}Outubro
+            {% when '11' %}Novembro
+            {% when '12' %}Dezembro
+          {% endcase %}
+          {{ page.date | date: "%Y" }}
+        </time>
+        <img class="thumbnaill" src="{{ page.thumb }}" alt="{{ page.title }}" title="{{ page.title }}">
+
+      {{ content }}
+
+      <div id="disqus_thread"></div>
+
+      <script type="text/javascript">
+      var disqus_loaded = false;
+      function load_disqus()
+      {
+          var disqus_config = function () {
+              this.page.url = '{{ site.url }}{{page.url}}';
+              this.page.identifier = '{{page.url}}';
+          };
+          var d = document, s = d.createElement('script');
+          s.src = '//deliciosas-dicas.disqus.com/embed.js';
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+          disqus_loaded = true;
+      };
+      window.onscroll = function(e) {
+          if ((window.innerHeight + window.scrollY) >= (document.body.offsetHeight - 500)) {
+              if (disqus_loaded==false) {
+                  load_disqus();
+              }
+          }
+      };
+  </script>
+    </article>
+
+  </div>
+</section>

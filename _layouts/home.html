@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+
+  {{ content }}
+
+  <section class="list">
+    <div class="container">
+
+      {% for post in site.posts %}
+      <article class="post {{ post.categoria }}">
+        <a href="{{ post.url | relative_url }}"><img class="thumbnaill" src="{{ post.thumb }}" alt="{{ post.title }}" title="{{ post.title }}"></a>
+        <span class="tag">{{ post.tags }}</span>
+        <a href="{{ post.url | relative_url }}"><h1 class="title">{{ post.title | escape }}</h1></a>
+        <time datetime='{{post.date | date: "%Y-%m-%d"}}' itemprop="datePublished">
+          {% assign m = post.date | date: "%-m" %}
+          {{ post.date | date: "%-d" }}
+          {% case m %}
+            {% when '1' %}Janeiro
+            {% when '2' %}Fevereiro
+            {% when '3' %}Março
+            {% when '4' %}Abril
+            {% when '5' %}Maio
+            {% when '6' %}Junho
+            {% when '7' %}Julho
+            {% when '8' %}Agosto
+            {% when '9' %}Setembro
+            {% when '10' %}Outubro
+            {% when '11' %}Novembro
+            {% when '12' %}Dezembro
+          {% endcase %}
+          {{ post.date | date: "%Y" }}
+        </time>
+      </article>
+      {% endfor %}
+
+    </div>
+  </section>

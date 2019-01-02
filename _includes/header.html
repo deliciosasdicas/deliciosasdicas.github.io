@@ -1,0 +1,34 @@
+<header class="top">
+  <div class="container-full">
+    <a href="/">
+      <img class="logo" src="{{ "/assets/img/deliciosasdicas.png" | relative_url }}" alt="Deliciosas Dicas" title="Deliciosas Dicas">
+    </a>
+
+    <nav class="menu">
+      <ul>
+        {% for link in site.links %}
+          <li><a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+
+  <div class="container">
+    <div class="publicidade">
+    </div>
+
+    <a id="instagram" href="https://www.instagram.com/deliciosasdicas/" target="_blank">
+      <span>Siga-nos no Instagram!</span>
+      <img src="{{ "/assets/img/instagram.png" | relative_url }}" alt="Siga-nos no Instagram" title="Siga-nos no Instagram">
+    </a>
+
+    <nav class="categories">
+      <ul>
+        <li><a href="#" class="all active">Todas</a></li>
+        <li><a href="#" id="lanches">Lanches</a></li>
+        <li><a href="#" id="bebidas">Bebidas</a></li>
+        <li><a href="#" id="fitness">Fitness</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
