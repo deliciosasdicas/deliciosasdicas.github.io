@@ -318,12 +318,34 @@ $secundary: 'Oxygen', sans-serif;
     display: block;
     text-align: left;
     margin-bottom: 10px;
-    font-family: "Oxygen",sans-serif;
+    font-family: $secundary;
     color: #604c45;
     font-size: 25px;
     letter-spacing: 1px;
     line-height: 1.5;
     font-weight: bold;
+  }
+}
+
+.rodape{
+  display: block;
+  width: 100%;
+  background: $color1;
+  position: relative;
+  bottom: 0;
+  margin-top: 10%;
+  a{
+    font-family: $secundary;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 45px 0;
+    display: flex;
+    align-items: center;
+    max-width: 210px;
+    margin: 0 auto;
   }
 }
 
