@@ -2,13 +2,13 @@
 layout: post
 title:  "Cookie De Banana E Aveia"
 description: "Descobri esse biscoitinho maravilhoso e mega fácil de fazer! Ele apenas leva 2 ingredientes e quase todos temos em casa."
-date:   2019-01-02 13:00:00 -0300
+date:   2018-12-30 13:00:00 -0300
 categoria:
   - fitness
 tags:
   - biscoitos
 seo: biscoitinho maravilhoso, biscoitinho, biscoitinho fitness, banana e aveia, biscoito de aveia, biscoito e banana, biscoito de banana
-thumb: "/uploads/2019-01-02-cookie-de-banana-e-aveia.jpg"
+thumb: "/uploads/2018-12-30-cookie-de-banana-e-aveia.jpg"
 ---
 
 Descobri esse biscoitinho maravilhoso e mega fácil de fazer!!

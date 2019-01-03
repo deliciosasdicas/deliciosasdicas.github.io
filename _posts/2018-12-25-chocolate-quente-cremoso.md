@@ -2,13 +2,13 @@
 layout: post
 title:  "Chocolate Quente Cremoso"
 description: "Nada melhor do que um tempo bem friozinho e quando vem acompanhado com um chocolate quente, então? hmmm..."
-date:   2019-01-02 13:00:00 -0300
+date:   2018-12-25 13:00:00 -0300
 categoria:
   - bebidas
 tags:
   - achocolatado
 seo: chocolate quente, chocolate cremoso, doce, chocolate em po, creme de leite, como fazer chocolate
-thumb: "/uploads/2019-01-02-chocolate-quente-cremoso.jpg"
+thumb: "/uploads/2018-12-25-chocolate-quente-cremoso.jpg"
 ---
 
 Nada melhor do que um tempo bem friozinho e quando vem acompanhado com um chocolate quente, então? hmmm...

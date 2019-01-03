@@ -32,7 +32,7 @@ jQuery(document).ready(function($) {
   //filtro
   $(".all").on('click', function(){
     $(".all").addClass('active');
-    $("#lanches, #bebidas, #fitness").removeClass('active');
+    $("#lanches, #bebidas, #fitness, #sobremesa").removeClass('active');
 
     $(".post").show(100);
   });
@@ -44,6 +44,7 @@ jQuery(document).ready(function($) {
     $(".lanches").show(100);
     $(".bebidas").hide(100);
     $(".fitness").hide(100);
+    $(".sobremesa").hide(100);
   });
 
   $("#bebidas").on('click', function(){
@@ -53,6 +54,7 @@ jQuery(document).ready(function($) {
     $(".bebidas").show(100);
     $(".lanches").hide(100);
     $(".fitness").hide(100);
+    $(".sobremesa").hide(100);
   });
 
   $("#fitness").on('click', function(){
@@ -60,6 +62,17 @@ jQuery(document).ready(function($) {
     $(".all, #bebidas, #lanches").removeClass('active');
 
     $(".fitness").show(100);
+    $(".bebidas").hide(100);
+    $(".lanches").hide(100);
+    $(".sobremesa").hide(100);
+  });
+
+  $("#sobremesa").on('click', function(){
+    $("#sobremesa").addClass('active');
+    $(".all, #bebidas, #lanches, #fitness").removeClass('active');
+
+    $(".sobremesa").show(100);
+    $(".fitness").hide(100);
     $(".bebidas").hide(100);
     $(".lanches").hide(100);
   });

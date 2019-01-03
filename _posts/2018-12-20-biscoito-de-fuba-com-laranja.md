@@ -2,13 +2,13 @@
 layout: post
 title:  "Biscoito de Fubá com Laranja"
 description: "No café da tarde (ou até mesmo no da manhã), sempre surge aquela dúvida do que iremos comer. Nessa receita, ensinaremos de forma fácil e prática a fazer biscoitinhos de fubá com laranja que vai deixar seu café ainda mais gostoso."
-date:   2019-01-02 13:00:00 -0300
+date:   2018-12-20 13:00:00 -0300
 categoria:
   - lanches
 tags:
   - biscoitos
 seo: biscoito, biscoito de fuba, fuba, biscoito com laranja, café da manhã, lanche da tarde, biscoitinhos, farinha de trigo
-thumb: "/uploads/2019-01-02-biscoito-de-fuba-com-laranja.jpg"
+thumb: "/uploads/2018-12-20-biscoito-de-fuba-com-laranja.jpg"
 ---
 
 No café da tarde (ou até mesmo no da manhã), sempre surge aquela dúvida do que iremos comer. Nessa receita, ensinaremos de forma fácil e prática a fazer biscoitinhos de fubá com laranja que vai deixar seu café ainda mais gostoso.
