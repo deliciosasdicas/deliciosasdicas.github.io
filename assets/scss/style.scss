@@ -341,7 +341,7 @@ $secundary: 'Oxygen', sans-serif;
     font-size: 20px;
     text-decoration: none;
     font-weight: bold;
-    padding: 45px 0;
+    padding: 60px 0;
     display: flex;
     align-items: center;
     max-width: 210px;
@@ -374,7 +374,13 @@ $secundary: 'Oxygen', sans-serif;
 
 @media screen and (max-width: 1200px){
   #instagram{
-    display: none;
+    right: 10px;
+    width: 50px;
+    span{
+      width: 100%;
+      font-size: 10px;
+      text-shadow: 1px 1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, -1px -1px 0 #fff, 1px 0px 0 #fff, 0px 1px 0 #fff, -1px 0px 0 #fff, 0px -1px 0 #fff;
+    }
   }
 }
 
