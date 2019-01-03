@@ -48,7 +48,7 @@ Retire do forno, reserve até esfriar e está prontinho para saborear.
 ---
 
 ## Bonus e sugestao
-Cookies ficam ótimos com um copo de leite ou chocolate e aqui temos uma receita que pode acompanhar esse lanche maravilhoso.
+Cookies ficam ótimos com um copo de leite ou chocolate e [aqui temos uma receita](https://deliciosasdicas.com/chocolate-quente-cremoso/){:target="_blank"}{:onclick="ga('send', 'event', 'link', 'click', 'Click de referencia post');"} que pode acompanhar esse lanche maravilhoso.
 
 Bom apetite e nos diga nos comentários o que achou da receita! ❤️
 

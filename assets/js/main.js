@@ -28,6 +28,9 @@ jQuery(document).ready(function($) {
   $("#instagram").on('click', function(){
     ga('send', 'event', 'Link', 'click', 'Clicou no Instagram');
   });
+  $("#instagramRodape").on('click', function(){
+    ga('send', 'event', 'Link', 'click', 'Clicou no Instagram do footer');
+  });
 
   //filtro
   $(".all").on('click', function(){
