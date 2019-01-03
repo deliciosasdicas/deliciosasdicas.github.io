@@ -35,46 +35,46 @@ jQuery(document).ready(function($) {
   //filtro
   $(".all").on('click', function(){
     $(".all").addClass('active');
-    $("#lanches, #bebidas, #fitness, #sobremesa").removeClass('active');
+    $("#lanches, #bebidas, #fitness, #sobremesas").removeClass('active');
 
     $(".post").show(100);
   });
 
   $("#lanches").on('click', function(){
     $("#lanches").addClass('active');
-    $(".all, #bebidas, #fitness").removeClass('active');
+    $(".all, #bebidas, #fitness, #sobremesas").removeClass('active');
 
     $(".lanches").show(100);
     $(".bebidas").hide(100);
     $(".fitness").hide(100);
-    $(".sobremesa").hide(100);
+    $(".sobremesas").hide(100);
   });
 
   $("#bebidas").on('click', function(){
     $("#bebidas").addClass('active');
-    $(".all, #lanches, #fitness").removeClass('active');
+    $(".all, #lanches, #fitness, #sobremesas").removeClass('active');
 
     $(".bebidas").show(100);
     $(".lanches").hide(100);
     $(".fitness").hide(100);
-    $(".sobremesa").hide(100);
+    $(".sobremesas").hide(100);
   });
 
   $("#fitness").on('click', function(){
     $("#fitness").addClass('active');
-    $(".all, #bebidas, #lanches").removeClass('active');
+    $(".all, #bebidas, #lanches, #sobremesas").removeClass('active');
 
     $(".fitness").show(100);
     $(".bebidas").hide(100);
     $(".lanches").hide(100);
-    $(".sobremesa").hide(100);
+    $(".sobremesas").hide(100);
   });
 
-  $("#sobremesa").on('click', function(){
-    $("#sobremesa").addClass('active');
+  $("#sobremesas").on('click', function(){
+    $("#sobremesas").addClass('active');
     $(".all, #bebidas, #lanches, #fitness").removeClass('active');
 
-    $(".sobremesa").show(100);
+    $(".sobremesas").show(100);
     $(".fitness").hide(100);
     $(".bebidas").hide(100);
     $(".lanches").hide(100);

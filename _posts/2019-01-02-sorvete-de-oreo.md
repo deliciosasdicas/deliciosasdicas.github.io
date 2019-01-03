@@ -4,7 +4,7 @@ title:  "Sorvete de Óreo"
 description: "Nesse verão, quando as temperaturas começam a subir, o desejo de todo mundo acaba sendo esse (além de piscina, sol e mar): sorvete."
 date:   2019-01-02 20:00:00 -0300
 categoria:
-  - sobremesa
+  - sobremesas
 tags:
   - sorvete
 seo: sorvete, oreo, biscoito oreo, sorvete de oreo, sorvete de chocolate, sorvete de biscoito, baunilha, creme de leite, biscoitos picados
