@@ -8,7 +8,7 @@ categoria:
 tags:
   - achocolatado
 seo: chocolate quente, chocolate cremoso, doce, chocolate em po, creme de leite, como fazer chocolate
-thumb: "/uploads/2018-12-25-chocolate-quente-cremoso.jpg"
+thumb: "https://deliciosasdicas.com/uploads/2018-12-25-chocolate-quente-cremoso.jpg"
 ---
 
 Nada melhor do que um tempo bem friozinho e quando vem acompanhado com um chocolate quente, então? hmmm...

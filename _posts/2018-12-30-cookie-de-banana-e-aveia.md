@@ -8,7 +8,7 @@ categoria:
 tags:
   - biscoitos
 seo: biscoitinho maravilhoso, biscoitinho, biscoitinho fitness, banana e aveia, biscoito de aveia, biscoito e banana, biscoito de banana
-thumb: "/uploads/2018-12-30-cookie-de-banana-e-aveia.jpg"
+thumb: "https://deliciosasdicas.com/uploads/2018-12-30-cookie-de-banana-e-aveia.jpg"
 ---
 
 Descobri esse biscoitinho maravilhoso e mega fácil de fazer!!

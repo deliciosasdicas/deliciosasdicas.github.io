@@ -8,7 +8,7 @@ categoria:
 tags:
   - sorvete
 seo: sorvete, oreo, biscoito oreo, sorvete de oreo, sorvete de chocolate, sorvete de biscoito, baunilha, creme de leite, biscoitos picados
-thumb: "/uploads/2019-01-02-sorvete-de-oreo.jpg"
+thumb: "https://deliciosasdicas.com/uploads/2019-01-02-sorvete-de-oreo.jpg"
 ---
 
 Nesse verão, quando as temperaturas começam a subir, o desejo de todo mundo acaba sendo esse (além de piscina, sol e mar): sorvete.
