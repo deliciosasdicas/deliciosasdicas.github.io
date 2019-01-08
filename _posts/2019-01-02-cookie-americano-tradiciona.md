@@ -8,7 +8,7 @@ categoria:
 tags:
   - biscoitos
 seo: cookie, cookie americano, cookie tradicional, chocolate, cookie de chocolate
-thumb: "https://deliciosasdicas.com/uploads/2019-01-02-cookie-americano-tradiciona.jpg"
+thumb: "/uploads/2019-01-02-cookie-americano-tradiciona.jpg"
 ---
 
 E quem não ama Cookie, não é mesmo? Esse é um biscoitinho que combina muito em um café da tarde ou da manhã com um copo de leite.
