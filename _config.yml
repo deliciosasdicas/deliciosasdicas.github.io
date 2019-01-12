@@ -7,9 +7,11 @@ thumb: "/assets/img/thumb.png"
 keywords: deliciosas dicas, receitas, culinária, cozinha, receitas light, receitas de microondas, receitas fáceis, receitas práticas, receitas baratas, como fazer, receitas fitness, receitas para emagrecer, geladinho gourmet, doces, sobremesas, saldas, chocolate, geladinho, leite, ovos
 tag_page_layout: tag_page
 links:
+  - title: Home
+    url: /
   - title: Envie sua Receita
     url: /enviar-receitas
-  - title: Anuncie aqui
+  - title: Contato
     url: /anunciar
 
 # Build settings

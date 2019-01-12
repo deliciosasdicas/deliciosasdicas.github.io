@@ -23,6 +23,11 @@ jQuery(document).ready(function($) {
 
   });
 
+  //menu mobile
+  $(".btn-menu").on('click', function(){
+    $(".categories").toggleClass('open');
+  });
+
 
   //tracking
   $("#instagram").on('click', function(){
