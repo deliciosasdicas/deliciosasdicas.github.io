@@ -1,22 +1,6 @@
 ---
 layout: default
 ---
-<script type="application/ld+json">
-{
-    "@context": "http://schema.org/",
-    "@type": "Recipe",
-    "name": "{{ page.title | escape }}",
-    "image": [
-        "{{ page.thumb }}"
-    ],
-    "author": {
-        "@type": "Person",
-        "name": "Deliciosas Dicas"
-    },
-    "description": "{{ page.content | strip_html | truncatewords: 30 }}",
-    "keywords": "{{ page.tags }}"
-}
-</script>
 <style media="screen">
   .categories{display:none;}
 </style>

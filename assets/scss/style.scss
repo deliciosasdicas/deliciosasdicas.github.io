@@ -56,11 +56,17 @@ $secundary: 'Oxygen', sans-serif;
 }
 
 .publicidade{
-  max-width: 780px;
-  height: 110px;
+  max-width: 728px;
+  height: 90px;
   background: #ccc;
   margin: 20px auto 50px;
-  display: none;
+  display: block;
+}
+
+.publicidade.last{
+  max-width: 970px;
+  height: 250px;
+  margin: 100px auto;
 }
 
 .categories{
@@ -402,6 +408,10 @@ $secundary: 'Oxygen', sans-serif;
   }
   .categories{
     margin-bottom: 0;
+  }
+
+  .publicidade{
+    display: none;
   }
 
   .container-full, .container{
