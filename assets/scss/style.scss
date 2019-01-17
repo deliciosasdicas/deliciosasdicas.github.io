@@ -445,6 +445,12 @@ $secundary: 'Oxygen', sans-serif;
   }
 }
 
+@media screen and (max-width: 680px){
+  .adsmobile{
+    display: none;
+  }
+}
+
 @media screen and (max-width: 480px){
   .menu{
     display: none;
