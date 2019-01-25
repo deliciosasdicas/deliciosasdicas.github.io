@@ -11,6 +11,16 @@ seo: sopas, sopa verde, caldo verde, caldo quente
 thumb: "/uploads/2019-01-04-caldo-verde.jpg"
 ---
 
+<div class="adsLeft">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 No friozinho nada melhor do que tomar uma sopa.
 
 Dentre as mais pedidas, está a sopa verde e dessa forma, hoje estamos trazendo essa maravilha de receita e que vai deixar com água na boca.
@@ -55,3 +65,13 @@ Você pode servir com vinagrete, torradas e patê.
 Bom apetite e nos diga nos comentários o que achou da receita! ❤️
 
 ---
+
+<div class="adsRight">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>

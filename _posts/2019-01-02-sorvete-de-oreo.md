@@ -11,6 +11,16 @@ seo: sorvete, oreo, biscoito oreo, sorvete de oreo, sorvete de chocolate, sorvet
 thumb: "/uploads/2019-01-02-sorvete-de-oreo.jpg"
 ---
 
+<div class="adsLeft">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 Nesse verão, quando as temperaturas começam a subir, o desejo de todo mundo acaba sendo esse (além de piscina, sol e mar): sorvete.
 
 Como alguém poderia resistir a algo que é doce, leve, refrescante e combina tanto com as estações quentes? Juro que eu não sei como! rs
@@ -52,3 +62,13 @@ Você pode enfeitar por cima com biscoitos inteiros, fica bem bonito.
 Bom apetite e nos diga nos comentários o que achou da receita! ❤️
 
 ---
+
+<div class="adsRight">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>

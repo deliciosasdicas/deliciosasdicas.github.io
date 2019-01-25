@@ -11,6 +11,16 @@ seo: salada colorida, salada fitness, repolho roxo, coube picada, hortela fresca
 thumb: "/uploads/2019-01-01-salada-colorida.jpg"
 ---
 
+<div class="adsLeft">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 Amo quando o prato está todo colorido. E nem precisa de muito pra isso!!
 
 Separamos essa receita bem prática para acompanhar seu almoço/janta.
@@ -41,3 +51,13 @@ O hortelã dá um toque de frescor à preparação. Você pode acompanhar com al
 Bom apetite e nos diga nos comentários o que achou da receita! ❤️
 
 ---
+
+<div class="adsRight">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>

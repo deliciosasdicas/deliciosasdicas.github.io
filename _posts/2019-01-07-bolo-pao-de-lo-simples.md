@@ -11,6 +11,16 @@ seo: bolo, bolo de pao de lo, pao de lo, bolo simples, bolinho
 thumb: "/uploads/2019-01-07-bolo-pao-de-lo-simples.jpg"
 ---
 
+<div class="adsLeft">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 Um cafezinho da manhã ou da tarde precisa ter um bolinho.
 
 Separamos essa receitinha bem simples.
@@ -42,3 +52,13 @@ Pode ser feito no liquidificador, caso não tenha batedeira.
 Bom apetite e nos diga nos comentários o que achou da receita! ❤️
 
 ---
+
+<div class="adsRight">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>

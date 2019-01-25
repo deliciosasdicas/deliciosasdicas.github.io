@@ -11,6 +11,16 @@ seo: biscoitinho maravilhoso, biscoitinho, biscoitinho fitness, banana e aveia, 
 thumb: "/uploads/2018-12-30-cookie-de-banana-e-aveia.jpg"
 ---
 
+<div class="adsLeft">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 Descobri esse biscoitinho maravilhoso e mega fácil de fazer!!
 
 Ele apenas leva 2 ingredientes e quase todos temos em casa. Combina muito bem com um café e também para sempre oferecer às visitas.
@@ -38,3 +48,13 @@ Você pode adicionar outros ingredientes também! Fica bem legal com nozes, frut
 Bom apetite e nos diga nos comentários o que achou da receita! ❤️
 
 ---
+
+<div class="adsRight">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>

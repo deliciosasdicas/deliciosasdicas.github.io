@@ -11,6 +11,16 @@ seo: biscoito, biscoito de fuba, fuba, biscoito com laranja, café da manhã, la
 thumb: "/uploads/2018-12-20-biscoito-de-fuba-com-laranja.jpg"
 ---
 
+<div class="adsLeft">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 No café da tarde (ou até mesmo no da manhã), sempre surge aquela dúvida do que iremos comer. Nessa receita, ensinaremos de forma fácil e prática a fazer biscoitinhos de fubá com laranja que vai deixar seu café ainda mais gostoso.
 
 Você também pode usar os biscoitinhos para enfeitar potes de vidro e oferecer às visitas quando chegarem.
@@ -47,3 +57,13 @@ Antes de começar, peneire bem os ingredientes secos. Você também pode fazer a
 Bom apetite e nos diga nos comentários o que achou da receita! ❤️
 
 ---
+
+<div class="adsRight">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>

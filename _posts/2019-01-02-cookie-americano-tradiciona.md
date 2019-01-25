@@ -11,6 +11,16 @@ seo: cookie, cookie americano, cookie tradicional, chocolate, cookie de chocolat
 thumb: "/uploads/2019-01-02-cookie-americano-tradiciona.jpg"
 ---
 
+<div class="adsLeft">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 E quem não ama Cookie, não é mesmo? Esse é um biscoitinho que combina muito em um café da tarde ou da manhã com um copo de leite.
 
 Pode ser servido para as visitas em casa ou até mesmo pode deixar em um vidro na mesa de café que fica lindo!
@@ -53,3 +63,13 @@ Cookies ficam ótimos com um copo de leite ou chocolate e [aqui temos uma receit
 Bom apetite e nos diga nos comentários o que achou da receita! ❤️
 
 ---
+
+<div class="adsRight">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>

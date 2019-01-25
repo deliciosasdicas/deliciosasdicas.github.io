@@ -11,6 +11,16 @@ seo: sopas, sopa verde, caldo verde, quente
 thumb: "/uploads/2019-01-05-sopa-de-lentilhas-com-bacon.jpg"
 ---
 
+<div class="adsLeft">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 No friozinho nada melhor do que tomar uma sopa.
 
 Abaixo mostramos a sopa de lentilhas com bacon, super fácil de se fazer.
@@ -47,3 +57,13 @@ Pode ser servida com pão e queijo se preferir.
 Bom apetite e nos diga nos comentários o que achou da receita! ❤️
 
 ---
+
+<div class="adsRight">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>

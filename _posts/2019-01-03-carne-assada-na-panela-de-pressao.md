@@ -11,6 +11,16 @@ seo: massas, panquecas, filé de frango, farinha de trigo integral, recheio, mol
 thumb: "/uploads/2019-01-03-carne-assada-na-panela-de-pressao.jpg"
 ---
 
+<div class="adsLeft">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 Domingão e no horário de almoço não pode faltar uma carninha.
 
 E essa receita é para a família toda.
@@ -49,3 +59,13 @@ Você pode acrescentar o molho Shoyu de acordo com o seu gosto.
 Bom apetite e nos diga nos comentários o que achou da receita! ❤️
 
 ---
+
+<div class="adsRight">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>

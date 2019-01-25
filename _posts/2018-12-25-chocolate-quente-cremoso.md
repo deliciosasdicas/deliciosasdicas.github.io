@@ -11,6 +11,16 @@ seo: chocolate quente, chocolate cremoso, doce, chocolate em po, creme de leite,
 thumb: "/uploads/2018-12-25-chocolate-quente-cremoso.jpg"
 ---
 
+<div class="adsLeft">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 Nada melhor do que um tempo bem friozinho e quando vem acompanhado com um chocolate quente, então? hmmm...
 
 Separamos essa receitinha bem fácil para fazer um chocolate quente e para ficar ainda mais saboroso, deixamos ele bem cremosinho.
@@ -46,3 +56,13 @@ Caso queira mais grossinho, você pode acrescentar um pouco mais de amido de mil
 Bom apetite e nos diga nos comentários o que achou da receita! ❤️
 
 ---
+
+<div class="adsRight">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>

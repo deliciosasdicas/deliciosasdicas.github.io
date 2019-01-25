@@ -11,6 +11,16 @@ seo: lasanha de carne, carne moida, lasanha, massa fresca para lasanha, lasanha 
 thumb: "/uploads/2019-01-04-lasanha-de-carne-moida.jpg"
 ---
 
+<div class="adsLeft">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 Domingão e no horário de almoço não pode faltar uma carninha.
 
 E essa receita é para a família toda.
@@ -49,3 +59,13 @@ Se quiser pode colocar no molho uma lata de milho verde.
 Bom apetite e nos diga nos comentários o que achou da receita! ❤️
 
 ---
+
+<div class="adsRight">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="3534346713"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
