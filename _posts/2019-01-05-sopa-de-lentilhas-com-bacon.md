@@ -8,7 +8,7 @@ categoria:
 tags:
   - sopa de lentilha
 seo: sopas, sopa verde, caldo verde, quente
-thumb: "/uploads/2019-01-05-sopa-de-lentilhas-com-bacon.jpg"
+thumb: "https://deliciosasdicas.com/uploads/2019-01-05-sopa-de-lentilhas-com-bacon.jpg"
 ---
 
 <div class="adsLeft">

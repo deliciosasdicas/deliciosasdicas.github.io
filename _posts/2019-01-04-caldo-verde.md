@@ -8,7 +8,7 @@ categoria:
 tags:
   - caldo
 seo: sopas, sopa verde, caldo verde, caldo quente
-thumb: "/uploads/2019-01-04-caldo-verde.jpg"
+thumb: "https://deliciosasdicas.com/uploads/2019-01-04-caldo-verde.jpg"
 ---
 
 <div class="adsLeft">

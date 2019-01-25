@@ -8,7 +8,7 @@ categoria:
 tags:
   - biscoitos
 seo: cookie, cookie americano, cookie tradicional, chocolate, cookie de chocolate
-thumb: "/uploads/2019-01-02-cookie-americano-tradiciona.jpg"
+thumb: "https://deliciosasdicas.com/uploads/2019-01-02-cookie-americano-tradiciona.jpg"
 ---
 
 <div class="adsLeft">

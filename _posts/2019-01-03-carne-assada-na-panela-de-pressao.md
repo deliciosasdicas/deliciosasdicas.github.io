@@ -8,7 +8,7 @@ categoria:
 tags:
   - carne assada
 seo: massas, panquecas, filé de frango, farinha de trigo integral, recheio, molho branco, panqueca integral
-thumb: "/uploads/2019-01-03-carne-assada-na-panela-de-pressao.jpg"
+thumb: "https://deliciosasdicas.com/uploads/2019-01-03-carne-assada-na-panela-de-pressao.jpg"
 ---
 
 <div class="adsLeft">

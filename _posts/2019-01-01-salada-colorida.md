@@ -8,7 +8,7 @@ categoria:
 tags:
   - salada
 seo: salada colorida, salada fitness, repolho roxo, coube picada, hortela fresca, azeite, suco de limao
-thumb: "/uploads/2019-01-01-salada-colorida.jpg"
+thumb: "https://deliciosasdicas.com/uploads/2019-01-01-salada-colorida.jpg"
 ---
 
 <div class="adsLeft">

@@ -8,7 +8,7 @@ categoria:
 tags:
   - biscoitos
 seo: biscoito, biscoito de fuba, fuba, biscoito com laranja, café da manhã, lanche da tarde, biscoitinhos, farinha de trigo
-thumb: "/uploads/2018-12-20-biscoito-de-fuba-com-laranja.jpg"
+thumb: "https://deliciosasdicas.com/uploads/2018-12-20-biscoito-de-fuba-com-laranja.jpg"
 ---
 
 <div class="adsLeft">

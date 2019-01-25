@@ -8,7 +8,7 @@ categoria:
 tags:
   - lasanha
 seo: lasanha de carne, carne moida, lasanha, massa fresca para lasanha, lasanha de carne moida, caldo de picanha
-thumb: "/uploads/2019-01-04-lasanha-de-carne-moida.jpg"
+thumb: "https://deliciosasdicas.com/uploads/2019-01-04-lasanha-de-carne-moida.jpg"
 ---
 
 <div class="adsLeft">

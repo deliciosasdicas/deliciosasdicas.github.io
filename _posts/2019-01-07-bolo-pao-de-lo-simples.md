@@ -8,7 +8,7 @@ categoria:
 tags:
   - bolo
 seo: bolo, bolo de pao de lo, pao de lo, bolo simples, bolinho
-thumb: "/uploads/2019-01-07-bolo-pao-de-lo-simples.jpg"
+thumb: "https://deliciosasdicas.com/uploads/2019-01-07-bolo-pao-de-lo-simples.jpg"
 ---
 
 <div class="adsLeft">
