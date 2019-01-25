@@ -399,6 +399,18 @@ $secundary: 'Oxygen', sans-serif;
   }
 }
 
+.adsLeft{
+  position: fixed;
+  left: 0;
+  top: 70px;
+}
+
+.adsRight{
+  position: fixed;
+  right: 0;
+  top: 70px;
+}
+
 @media screen and (max-width: 1256px){
   .categories:before{
     display: none;
@@ -441,6 +453,10 @@ $secundary: 'Oxygen', sans-serif;
     display: block;
   }
   .categories, .menu{
+    display: none;
+  }
+
+  .adsLeft, .adsRight{
     display: none;
   }
 }
