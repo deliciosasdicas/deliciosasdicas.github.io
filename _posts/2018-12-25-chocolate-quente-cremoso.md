@@ -58,11 +58,4 @@ Bom apetite e nos diga nos comentários o que achou da receita! ❤️
 ---
 
 <div class="adsRight">
-<ins class="adsbygoogle"
-     style="display:inline-block;width:160px;height:600px"
-     data-ad-client="ca-pub-8078000237589807"
-     data-ad-slot="3534346713"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
