@@ -1,0 +1,437 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Chewy');
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,800');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+
+$azul : #0094da;
+$marrom: #604c45;
+
+$titulo : 'Chewy', cursive;
+$texto : 'Raleway', sans-serif;
+$especial : 'Dancing Script', cursive;
+
+body{
+  background: url("../img/fill.svg") repeat;
+  background-size: cover;
+}
+
+.container{
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.main{
+  background: url("../img/top.png") repeat-x center bottom;
+  background-size: cover;
+  height: 840px;
+  animation: liquid .5s linear;
+  position: relative;
+}
+
+@keyframes liquid{
+  0%{
+    top: -580px;
+  }
+  100%{
+    top: 0;
+  }
+}
+
+@keyframes show{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
+}
+
+.logo{
+  animation: show .5s linear;
+  max-width: 100px;
+  img{
+    width: 100%;
+  }
+}
+
+.headline{
+  animation: show .5s linear;
+  max-width: 480px;
+  margin-top: 60px;
+  float: left;
+  h1{
+    font-family: $titulo;
+    color: $azul;
+    font-size: 90px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 0 #fff, 2px -2px 0 #fff, -2px 2px 0 #fff, -2px -2px 0 #fff, 2px 0 0 #fff, 0 2px 0 #fff, -2px 0 0 #fff, 0 -2px 0 #fff;
+    line-height: 1;
+  }
+  p{
+    font-family: $texto;
+    color: #fff;
+    font-size: 18px;
+    margin-top: 40px;
+  }
+  span{
+    font-family: $texto;
+    color: #fff;
+    font-size: 28px;
+    font-weight: 800;
+    text-transform: none;
+    display: block;
+    margin-bottom: 20px;
+  }
+  a{
+    text-decoration: none;
+    color: #5eb9e4;
+    &:after{
+      content: "";
+      width: 0;
+      height: 4px;
+      background: #5eb9e4;
+      position: absolute;
+      display: list-item;
+      list-style: none;
+      margin-top: 5px;
+    }
+    &:hover:after{
+      width: 130px;
+      transition: all .2s linear;
+    }
+  }
+}
+
+.box{
+  animation: show 1s linear;
+  display: block;
+  background: #fff;
+  max-width: 600px;
+  width: 100%;
+  border-radius: 45px;
+  float: right;
+  -webkit-box-shadow: 0px 0px 49px -13px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 49px -13px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 49px -13px rgba(0,0,0,0.75);
+  .optin{
+    padding: 40px;
+    input, button{
+      display: block;
+      width: 100%;
+      margin-bottom: 20px;
+      padding: 15px 30px;
+      box-sizing: border-box;
+      font-family: $texto;
+      color: $azul;
+      font-size: 20px;
+      border: 2px solid $azul;
+      border-radius: 100px;
+      outline-color: transparent;
+      -webkit-appearance: none;
+    }
+    button{
+      background: $azul;
+      color: #fff !important;
+      text-transform: uppercase;
+      font-weight: 800;
+      cursor: pointer;
+      &:hover{
+        opacity: .8;
+        transition: all .2s linear;
+      }
+    }
+    b{
+      font-family: $texto;
+      color: $azul;
+      font-size: 15px;
+      margin-bottom: 5px;
+      display: block;
+    }
+    .seguro{
+      display: flex;
+      align-items: center;
+      font-family: $texto;
+      color: $azul;
+      font-size: 14px;
+      img{
+        width: 30px;
+        margin-right: 15px;
+      }
+    }
+  }
+}
+
+.about{
+  display: block;
+  width: 100%;
+  margin: 100px 0;
+  .container{
+    display: flex;
+    align-items: center;
+  }
+  .modulos-ebook{
+    max-width: 610px;
+    margin-right: auto;
+    background: #0094da;
+    padding: 40px;
+    border-radius: 45px;
+    -webkit-box-shadow: 0px 0px 49px -13px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 49px -13px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 49px -13px rgba(0,0,0,0.75);
+    .bloco {
+      display: flex;
+      align-items: center;
+      margin-bottom: 52px;
+      &:last-child{
+        margin-bottom: 0;
+      }
+    }
+    span{
+      display: block;
+      margin-left: 30px;
+      font-family: $texto;
+      font-size: 16px;
+      color: #fff;
+      font-weight: 800;
+      p{
+        font-weight: normal;
+      }
+    }
+    .icon{
+      width: 100px;
+      height: 100px;
+      text-align: center;
+      display: inline-flex;
+      background: transparent;
+      border-radius: 100%;
+      border: 3px solid #fff;
+      img{
+        width: 100%;
+        max-width: 60px;
+        display: block;
+        margin: 0 auto;
+      }
+    }
+  }
+  .texto{
+    max-width: 600px;
+    h2{
+      font-family: $especial;
+      font-size: 60px;
+      color: $azul;
+      display: block;
+      margin-bottom: 10px;
+    }
+    p{
+      font-family: $texto;
+      font-size: 18px;
+      color: $marrom;
+      display: block;
+      text-align: justify;
+    }
+  }
+}
+
+.instagram{
+  width: 100%;
+  background: #f4f4f4;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 150px;
+  margin: 35px 0;
+  box-sizing: border-box;
+  img{
+    width: 92px;
+    height: 92px;
+    border-radius: 100%;
+    border: 3px solid $azul;
+  }
+  span{
+    font-family: $texto;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: $azul;
+    font-weight: 800;
+    display: block;
+    margin-left: 25px;
+  }
+  b{
+    font-family: $texto;
+    font-size: 13px;
+    color: $marrom;
+    line-height: 2;
+    display: block;
+  }
+}
+
+footer{
+  background: url("../img/footer.svg") repeat-x;
+  padding: 95px 0 50px;
+  p{
+    text-align: center;
+    font-family: $texto;
+    font-size: 18px;
+    color: #fff;
+    a{
+      color: #fff;
+      line-height: 2;
+    }
+  }
+  &:after{
+    content: "";
+    background: $marrom;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+  }
+}
+
+@media screen and (max-width: 1380px){
+  .container{
+    margin-left: 4%;
+    margin-right: 4%;
+  }
+}
+
+@media screen and (max-width: 1250px){
+  .headline{
+    max-width: 380px;
+    h1{
+      font-size: 80px;
+    }
+  }
+  .box{
+    max-width: 490px;
+  }
+  .about .texto {
+    max-width: 520px;
+  }
+  .about .container {
+    align-items: end;
+  }
+  .about .modulos-ebook {
+    max-width: 330px;
+    margin-right: 30px;
+    .icon{
+      width: 60px;
+      height: 48px;
+      img{
+        max-width: 30px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 995px){
+  .about .container {
+    display: grid;
+  }
+  .about .texto, .modulos-ebook{
+    max-width: 100% !important;
+  }
+  .modulos-ebook{
+    display: block;
+    margin: 0 auto 100px !important;
+  }
+  .about .modulos-ebook .icon {
+    width: 100px;
+    height: 100px;
+    img{
+      max-width: 60px;
+    }
+  }
+
+  .headline, .box{
+    float: none;
+  }
+
+  .headline{
+    margin-bottom: 50px;
+    margin-top: 0;
+  }
+
+  .main{
+    background: #604c45 !important;
+    height: 1020px;
+  }
+
+  .main:after {
+    content: "";
+    width: 100%;
+    height: 400px;
+    background: url("../img/top.png") repeat-x center bottom;
+    display: block;
+  }
+
+  .about{
+    margin: 360px 0;
+  }
+
+  .headline, .box{
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 480px){
+  .about .modulos-ebook .icon {
+    display: contents;
+    border: 0;
+  }
+  .headline h1 {
+    font-size: 45px;
+  }
+
+  .headline span{
+    font-size: 18px;
+  }
+
+  .headline p{
+    font-size: 14px;
+    margin-top: 20px;
+  }
+
+  .headline a:after{
+    display: none;
+  }
+
+  .main:after{
+    position: absolute;
+    bottom: -360px;
+    z-index: -1;
+  }
+
+  .main{
+    height: 840px;
+  }
+
+  .box .optin {
+    padding: 30px;
+  }
+  .box .optin input, .box .optin button{
+    padding: 10px 30px;
+    font-size: 17px;
+  }
+
+  .about {
+    margin: 360px 0 50px;
+  }
+
+  footer p{
+    font-size: 13px;
+  }
+
+  .container {
+    margin-left: 6%;
+    margin-right: 6%;
+  }
+}
