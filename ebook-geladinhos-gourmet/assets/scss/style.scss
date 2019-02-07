@@ -157,6 +157,13 @@ body{
       display: block;
       font-weight: 800;
     }
+    .mauticform-errormsg{
+      font-family: $texto;
+      color: red;
+      font-size: 10px;
+      display: block;
+      font-weight: 800;
+    }
     .seguro{
       display: flex;
       align-items: center;
