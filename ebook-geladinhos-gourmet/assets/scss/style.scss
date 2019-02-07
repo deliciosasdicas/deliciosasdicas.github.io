@@ -171,6 +171,31 @@ body{
   }
 }
 
+.call-to-action{
+  display: block;
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 15px 30px;
+  box-sizing: border-box;
+  font-family: $texto;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  border: 2px solid $azul;
+  border-radius: 100px;
+  outline-color: transparent;
+  -webkit-appearance: none;
+  background: $azul;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 800;
+  cursor: pointer;
+  &:hover{
+    opacity: .8;
+    transition: all .2s linear;
+  }
+}
+
 .about{
   display: block;
   width: 100%;
@@ -276,6 +301,21 @@ body{
   }
 }
 
+.bottom{
+  display: none;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  background: linear-gradient(transparent, #000000b8);
+  padding: 35px 0;
+  z-index: 1;
+  .call-to-action{
+    max-width: 270px;
+    margin: 0 auto;
+    font-size: 13px;
+  }
+}
+
 footer{
   background: url("../img/footer.svg") repeat-x;
   padding: 95px 0 50px;
@@ -371,7 +411,7 @@ footer{
 
   .main{
     background: #604c45 !important;
-    height: 1020px;
+    height: 1050px;
   }
 
   .main:after {
@@ -388,6 +428,21 @@ footer{
 
   .headline, .box{
     max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 680px){
+  .main{
+    z-index: 2;
+  }
+  .bottom{
+    display: block;
+    .call-to-action:hover{
+      opacity: 1;
+    }
+  }
+  .texto .call-to-action{
+    display: none;
   }
 }
 
