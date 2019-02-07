@@ -93,6 +93,7 @@ body{
   a{
     text-decoration: none;
     color: #5eb9e4;
+    line-height: 2;
     &:after{
       content: "";
       width: 0;
@@ -101,7 +102,7 @@ body{
       position: absolute;
       display: list-item;
       list-style: none;
-      margin-top: 5px;
+      margin-top: -7px;
     }
     &:hover:after{
       width: 130px;
@@ -148,12 +149,13 @@ body{
         transition: all .2s linear;
       }
     }
-    b{
+    label{
       font-family: $texto;
       color: $azul;
       font-size: 15px;
       margin-bottom: 5px;
       display: block;
+      font-weight: 800;
     }
     .seguro{
       display: flex;
@@ -315,12 +317,7 @@ footer{
     h1{
       font-size: 80px;
     }
-    a{
-      line-height: 2;
-    }
-    a:after{
-      margin-top: -7px;
-    }
+
   }
   .box{
     max-width: 490px;
