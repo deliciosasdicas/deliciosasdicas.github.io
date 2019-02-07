@@ -43,6 +43,25 @@
     <meta content="general" name="rating" />
     <meta content="index, follow" name="robots" />
     <meta name="google-site-verification" content="7UwW1zANpV7NDD0ktx5UVDyJp1EDfrPxy_mWtR_3Fxs" />
+
+    <script type="text/javascript">
+        /** This section is only needed once per page if manually copying **/
+        if (typeof MauticSDKLoaded == 'undefined') {
+            var MauticSDKLoaded = true;
+            var head            = document.getElementsByTagName('head')[0];
+            var script          = document.createElement('script');
+            script.type         = 'text/javascript';
+            script.src          = 'http://edsnet.com.br/email/media/js/mautic-form.js';
+            script.onload       = function() {
+                MauticSDK.onLoad();
+            };
+            head.appendChild(script);
+            var MauticDomain = 'http://edsnet.com.br/email';
+            var MauticLang   = {
+                'submittingMessage': "Por favor, aguarde..."
+            }
+        }
+    </script>
   </head>
   <body>
     <header class="main">
@@ -67,7 +86,7 @@
         </div>
 
         <div class="box">
-          <form class="optin" action="" method="post">
+          <form class="optin" method="post" action="http://edsnet.com.br/email/form/submit?formId=1" id="mauticform_capturadeleadsebookgeladinhogourmetgratuito" data-mautic-form="capturadeleadsebookgeladinhogourmetgratuito" enctype="multipart/form-data">
             <b>Nome*</b>
             <input type="text" name="" placeholder="Seu nome" value="" autofocus>
 
@@ -76,7 +95,7 @@
 
             <b>Seu Whatsapp</b>
             <input type="text" name="" placeholder="(11) 9xxxx-xxxx" value="">
-            <button type="button" name="button">baixar e-book gratis</button>
+            <button type="submit" name="button">baixar e-book gratis</button>
             <span class="seguro">
               <img src="assets/img/lock-icon.png" alt="">
               você tá seguro com a gente e sua é privacidade guardada a sete chaves
