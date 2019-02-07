@@ -64,7 +64,7 @@ body{
 
 .headline{
   animation: show .5s linear;
-  max-width: 480px;
+  max-width: 510px;
   margin-top: 60px;
   float: left;
   h1{
@@ -232,7 +232,7 @@ body{
     }
     p{
       font-family: $texto;
-      font-size: 18px;
+      font-size: 22px;
       color: $marrom;
       display: block;
       text-align: justify;
@@ -303,11 +303,23 @@ footer{
   }
 }
 
+@media screen and (max-width: 1340px){
+  .about .modulos-ebook{
+    margin-right: 20px;
+  }
+}
+
 @media screen and (max-width: 1250px){
   .headline{
     max-width: 380px;
     h1{
       font-size: 80px;
+    }
+    a{
+      line-height: 2;
+    }
+    a:after{
+      margin-top: -7px;
     }
   }
   .box{
