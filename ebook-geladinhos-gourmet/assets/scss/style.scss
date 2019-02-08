@@ -504,6 +504,10 @@ footer{
     font-size: 13px;
   }
 
+  footer:after{
+    height: 120px;
+  }
+
   .container {
     margin-left: 6%;
     margin-right: 6%;
