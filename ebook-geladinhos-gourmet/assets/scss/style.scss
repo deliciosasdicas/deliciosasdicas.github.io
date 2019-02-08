@@ -513,3 +513,9 @@ footer{
     margin-right: 6%;
   }
 }
+
+@media screen and (max-height: 799px){
+  .main{
+    margin-bottom: 200px !important;
+  }
+}
