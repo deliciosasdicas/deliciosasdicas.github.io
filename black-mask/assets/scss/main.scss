@@ -338,16 +338,15 @@ footer{
   }
 
   .main .content{
-    display: grid;
+    display: block;
   }
   .main .content .text{
     margin: 0 auto 30px;
-    order: 1;
   }
   .img{
     text-align: center;
-    order: 2;
     position: initial !important;
+    margin-bottom: 40px;
     img#mask{
       display: none;
     }
