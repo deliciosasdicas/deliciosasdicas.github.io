@@ -5,7 +5,7 @@ VANTA.DOTS({
 });
 
 $(document).ready(function() {
-  setInterval(function(){ $(".custom-social-proof").stop().slideToggle('slow'); }, 8000);
+  setInterval(function(){ $(".custom-social-proof").stop().slideToggle('slow'); }, 13000);
    $(".custom-close").click(function() {
      $(".custom-social-proof").stop().slideToggle('slow');
    });

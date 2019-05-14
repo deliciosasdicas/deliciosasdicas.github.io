@@ -364,7 +364,7 @@ footer{
 }
 
 @media screen and (max-width: 320px){
-  .topo h1, .last-buy h2, .main .content .text h2{
+  .topo h1, .main .content .text h2{
     font-size: 35px;
   }
   .content, .full-width{
@@ -378,5 +378,8 @@ footer{
   }
   .buy p, .buy ul{
     text-align: left;
+  }
+  .last-buy h2{
+    font-size: 40px;
   }
 }
