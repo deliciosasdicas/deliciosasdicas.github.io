@@ -54,6 +54,11 @@ a.btn{
   text-decoration: none;
   font-weight: 600;
   box-sizing: border-box;
+  &:hover{
+    font-size: 23px;
+    max-width: 380px;
+    transition: all .2s linear;
+  }
 }
 
 .main{
@@ -88,6 +93,7 @@ a.btn{
             display: block;
             color: $gold;
             text-decoration: none;
+            margin-top: 7px;
           }
         }
       }
@@ -193,6 +199,14 @@ a.btn{
   .btn{
     background: #000;
     margin-bottom: 0;
+  }
+  p{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    line-height: 1;
+    margin-top: 30px;
   }
 }
 
